@@ -1,4 +1,4 @@
-<h1>Javascript Calculator</h1>
+#Javascript Calculator
 A Pen created at CodePen.io. You can find this one at http://codepen.io/vogtn/pen/pbEdRz.
 
  
