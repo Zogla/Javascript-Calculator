@@ -1,7 +1,7 @@
   Javascript Calculator
    by: Nicolas Vogt 
    nicolasjvogt@gmail.com
-  
+  test
 A Pen created at CodePen.io. You can find this one at http://codepen.io/vogtn/pen/pbEdRz.
 
  This calculator was created using primarily javascript, jQuery, css, and html + (bootstrap framework) . The purpose is to ultilize primary math functions to emulate a basic calculator. 
